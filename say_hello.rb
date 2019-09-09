@@ -2,4 +2,4 @@
 def say_hello(name="Ruby Programmer")
 puts "Hello #{name}!"
 end
-introduction("Kent Beck")
+say_hello("Kent Beck")
